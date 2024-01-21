@@ -37,7 +37,7 @@ int main()
 	cin>>urun.sayi;
 	
    dosya.write(reinterpret_cast<char*>(&urun),sizeof(urun))	;
-   cout<<"\n Başka Kayıt Yapmak İstiyor Musunuz? [E/H] "  ;secim=getche();  
+   cout<<"\n Başka Kayıt Yapmak İstiyor Musunuz?  [E/H] "  ;secim=getche();  
    }
    
    while (secim=='e' || secim=='E');
