@@ -1,3 +1,4 @@
+/*EMRE KAAN ALVAR-ELEKTRİKÇİ OTOMASYONU*/
 #include <iomanip>
 #include <cstring>
 #include <stdlib.h>
