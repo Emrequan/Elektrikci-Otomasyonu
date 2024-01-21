@@ -77,7 +77,7 @@ dosya.close();
 	bool var;
 	ifstream dosya;
 	dosya.open("urun.dat",ios::binary);
-	cout << "Kaydını bulmak istediğiniz Ürünün adını girin:";
+	cout << "Kaydını bulmak istediğiniz Ürünün adını giriniz:";
 	cin>>isim;
 	for(int j=0;j<kayitsayisi;j++)
 	{
